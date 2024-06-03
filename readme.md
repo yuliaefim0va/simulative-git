@@ -1,2 +1,2 @@
-# simulaive git module
+# simulative git module
 hello, github!
